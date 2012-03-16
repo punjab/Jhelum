@@ -711,18 +711,18 @@
             <key code="15" output="&#x0012;"/>
             <key code="16" output="&#x0019;"/>
             <key code="17" output="&#x0014;"/>
-            <key code="18" output="੧"/>
-            <key code="19" output="੨"/>
-            <key code="20" output="੩"/>
-            <key code="21" output="੪"/>
-            <key code="22" output="੬"/>
-            <key code="23" output="੫"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="="/>
-            <key code="25" output="੯"/>
-            <key code="26" output="੭"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="&#x001F;"/>
-            <key code="28" output="੮"/>
-            <key code="29" output="੦"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="&#x001D;"/>
             <key code="31" output="&#x000F;"/>
             <key code="32" output="&#x0015;"/>
